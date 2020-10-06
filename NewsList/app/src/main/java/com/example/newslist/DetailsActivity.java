@@ -3,18 +3,13 @@ package com.example.newslist;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.EditText;
 
-public class LoginActivity extends AppCompatActivity {
+public class DetailsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_details);
         setTitle(getLocalClassName());
-        EditText username = (EditText)findViewById(R.id.editText1);
-        EditText password = (EditText)findViewById(R.id.editText2);
-
-
     }
 }
