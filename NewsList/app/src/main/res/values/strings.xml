@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NewsList</string>
+    <string name="identifiant">Identifiant</string>
+    <string name="motdepasse">Mot de spasse</string>
+    <string name="login">Login</string>
+    <string name="Ok">ok</string>
+    <string name="informations">Informations</string>
+    <string name="details">Details</string>
+    <string name="logout">logout</string>
+    <string name="about">About</string>
+
 </resources>
